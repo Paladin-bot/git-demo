@@ -2,9 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-JH===Lalalalalalalalallakaljlajs
-skahskakahdkda
-dajdajdjadk.
-dsds
+1. index.html
+
